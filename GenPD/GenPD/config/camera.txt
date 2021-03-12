@@ -1,0 +1,8 @@
+EyeDistance         15
+Head                30
+Pitch               45
+LookAt              0 4.5 0 
+UpDir               0 1 0 
+Fovy                60
+ZNear               0.1
+Zfar                500

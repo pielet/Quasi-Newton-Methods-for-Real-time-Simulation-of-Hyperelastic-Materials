@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/76063/Desktop/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials-master/Libs/Eigen_3_3_1/unsupported/test/matrix_exponential.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "matrix_exponential_1"
+	}
+}

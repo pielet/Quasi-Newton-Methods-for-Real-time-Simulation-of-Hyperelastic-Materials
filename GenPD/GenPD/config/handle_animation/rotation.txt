@@ -1,0 +1,18 @@
+twist
+KeyframedHandleIDT   0
+
+AnimationSegmentsT   2
+
+0 0 -1 0.001 100
+0 0 1 0 150
+
+KeyframedHandleIDR   0
+
+AnimationSegmentsR   2
+
+0 0 1 0 0 0 1.5 100
+0 0 1 0 0 0 0 150
+
+bend
+1 0 0 0 0 6 0.3 100
+1 0 0 0 0 6 0 150

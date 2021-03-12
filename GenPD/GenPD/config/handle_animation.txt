@@ -1,0 +1,10 @@
+KeyframedHandleIDT   1
+
+AnimationSegmentsT   2
+
+1 0 0 0 0 6 0.3 100
+1 0 0 0 0 6 0 150
+
+KeyframedHandleIDR   0
+
+AnimationSegmentsR   2

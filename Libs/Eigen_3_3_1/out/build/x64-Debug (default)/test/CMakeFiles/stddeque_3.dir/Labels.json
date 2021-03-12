@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/76063/Desktop/Quasi-Newton-Methods-for-Real-time-Simulation-of-Hyperelastic-Materials-master/Libs/Eigen_3_3_1/test/stddeque.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "stddeque_3"
+	}
+}

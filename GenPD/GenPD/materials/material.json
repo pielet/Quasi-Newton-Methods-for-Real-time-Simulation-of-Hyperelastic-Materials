@@ -1,0 +1,8 @@
+{
+	"materials": {
+        "data": "materials/gray-interlock.json",
+        "density_mult": 5,
+        "stretching_mult": 5,
+        "bending_mult": 5
+    },
+}

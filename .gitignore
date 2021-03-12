@@ -1,0 +1,10 @@
+GenPD/.vs/
+GenPD/x64/
+*.pdb
+*.vcxproj.user
+*.vcxproj.filters
+GenPD/GenPD/x64/
+GenPD/GenPD/Debug/
+GenPD/GenPD/Release/
+GenPD/GenPD/output/
+meshes/backup/

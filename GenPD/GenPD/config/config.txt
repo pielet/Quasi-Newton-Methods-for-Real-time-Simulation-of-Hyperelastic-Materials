@@ -1,0 +1,56 @@
+HasEnd              0
+TotalFrame          500
+MeshBody            1
+Wireframe           1
+Wireframe           1
+Texture             0
+ScreenWidth         1920
+ScreenHeight        1017
+
+MeshType            2
+MeshMass            1
+TetFilePath         square2.obj
+MaterialDataPath	paper
+TetScaling          1
+TetFlip             0
+TetRotation         0
+ClothDimension      0 0
+ClothCorners        0 0 0 0 0 0
+
+HandleColor         0 0 0
+RandomHandleColor   0
+
+SimMethod           0
+OptimizationMethod  1
+Timestep            0.001
+SubStepping         1
+OpenMP              1
+TetConstraintType   1
+Density             8.05
+Thickness           0.1
+YoungsModulus       4e+07
+PoissonRatio        0.48
+BendingStiffness    10
+AttachmentStiffness 1e+10
+KappaStiffness      0
+AutoLaplacian       0
+LaplacianStiffness  0
+GravityConstant     981
+DampingCoefficient  0.05
+RestiCoefficient    0
+FrictionCoefficient 0
+IterationsPerFrame  1
+DefinitenessFix     0
+LSEnable            1
+LSExact             0
+LSType              0
+LSStep              0
+LSAlpha             0.03
+LSBeta              0.5
+AnimEnableSwing     0
+AnimSwingAll        0
+AnimHalfPeriod      0
+AnimAmp             0
+AnimDir             0 0 0
+LBFGSType           2
+LBFGSWindowSize     0
